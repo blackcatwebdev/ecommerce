@@ -8,7 +8,7 @@
 
 ## Shopper
 
-    - As a shopper, I want to be able to easily search for products on the e-commerce website so that I can find what I am looking for quickly.
+- As a shopper, I want to be able to easily search for products on the e-commerce website so that I can find what I am looking for quickly.
 
 - As a shopper, I want to be able to filter search results by price, size, color, and other attributes so that I can easily find products that meet my specific needs.
 - As a shopper, I want to be able to see detailed product descriptions, reviews, and ratings so that I can make an informed purchasing decision.
