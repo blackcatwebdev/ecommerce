@@ -1,38 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## New Customer
 
-## Getting Started
+- As a new customer, I want to be able to easily create an account on the e-commerce website so that I can start shopping quickly and keep track of my orders.
 
-First, run the development server:
+## Returning Customer
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- As a returning customer, I want to be able to easily log in to my account so that I can access my order history, saved payment information, and update my personal details.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Shopper
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+    - As a shopper, I want to be able to easily search for products on the e-commerce website so that I can find what I am looking for quickly.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- As a shopper, I want to be able to filter search results by price, size, color, and other attributes so that I can easily find products that meet my specific needs.
+- As a shopper, I want to be able to see detailed product descriptions, reviews, and ratings so that I can make an informed purchasing decision.
+- As a shopper, I want to be able to easily add products to my cart and see the total cost, including taxes and shipping, so that I can budget accordingly.
+- As a shopper, I want to be able to easily checkout and pay for my order, with multiple payment options and secure processing, so that I can complete my purchase quickly and easily.
+- As a shopper, I want to be able to track my order status and receive notifications about shipment and delivery so that I can anticipate when my items will arrive.
+- As a shopper, I want to be able to easily initiate a return or exchange if needed and receive a prompt refund or replacement so that I can feel confident in my purchase.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Frequent Shopper
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- As a frequent shopper, I want to be able to earn rewards or receive special discounts for my loyalty so that I can save money on future purchases.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Note: These user stories are not exhaustive and there may be additional requirements and features needed.
